@@ -1,0 +1,14 @@
+turnTimer(0.5, [40, 120, 0])
+            while True:
+                ret, frame = cam.get()
+                if not ret:
+                    continue
+                frame = cv2.flip(frame, -1)
+                hsv = cv2.cvtColor(frame, cv2.COLOR_BGR2HSV)
+                maskOR = cv2.inRange(hsv, lowerOR, upperOR)
+                ox, oy, ow, oh = findContour(maskOR, 100, 'OR')
+                if oy > 300 and oh > 94:
+                    break
+                drive(40, 120, 1)
+                time.sleep(0.01)
+            turnTimer(5, [35, 94, 0])
