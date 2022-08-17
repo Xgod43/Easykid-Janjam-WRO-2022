@@ -19,7 +19,20 @@ Photos of team
 
 Photos of car
 
-https://drive.google.com/file/d/1dgKFNrSyuWQcepf3GcIWopngAclGqo54/view?usp=sharing
+![car1](https://user-images.githubusercontent.com/66768662/185031111-fd3302bf-ccf6-467c-950f-caeabb3ec585.PNG)
+
+![car2](https://user-images.githubusercontent.com/66768662/185031124-c8176ed1-3cb9-4694-ac1e-37af42d264ee.PNG)
+
+![car3](https://user-images.githubusercontent.com/66768662/185031133-6d6e7814-812b-407f-abe5-490a27b8656a.PNG)
+
+![car4](https://user-images.githubusercontent.com/66768662/185031140-5409e14e-ee60-4ddf-8251-1ea69210d49f.PNG)
+
+![car5](https://user-images.githubusercontent.com/66768662/185031148-7a6ed2bb-4380-4808-a24d-77146275c58c.PNG)
+
+![car6](https://user-images.githubusercontent.com/66768662/185031153-2a38f7c3-2eb8-4b88-b0c1-d2371a5a2942.PNG)
+
+
+
 
 Youtube URL : https://youtu.be/Q2ei59Gtg3Y
 
