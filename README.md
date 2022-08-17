@@ -3,7 +3,9 @@ Easykid Janjam
 
 Team : Easykids Janjam 
 
-Team member : 1.Kunt Kanjanapiputkun 2.Teerawoot Inta 3.Danuphat Parnpradit
+Team member :  1.Kunt Kanjanapiputkun 
+               2.Teerawoot Inta 
+               3.Danuphat Parnpradit
 
 Engineering Materials :
 
