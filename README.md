@@ -21,15 +21,21 @@ Photos of car
 .
 .
 
-**Youtube Video**
+Youtube URL : https://youtu.be/Q2ei59Gtg3Y
 
 This is a diagram of electricity that depicts all of the elements in the Easykid Janjam team.
 
 **diagram pic**
+
 Code : Python
+
 **Code pic**
+
 Processing of car
+
 - The program works by using two types of motor control. 
+
 1. A direct current motor to control the wheels while driving. 
 2. A servo motor to control the car's turn. 
+
 The program will check the color by using OPENCV to check the blue and orange to find the distance of the line to control the turn. And use the distance sensor to detect the edge of the field flap for turning and entering the field. If an object is found on the right, the car will turn left. And in the part of traffic sign detection, OPENCV color detection is used to detect the location of traffic signs. Command the car to reverse itself to go in the right direction.
