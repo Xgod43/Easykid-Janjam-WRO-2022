@@ -14,8 +14,11 @@ This repository contains engineering materials of Easykid Janjam that are partic
 - A diagram of electricity that depicts all of the elements
 
 Photos of team
-.
-.
+
+![Team1](https://user-images.githubusercontent.com/66768662/185031250-51b07066-3b64-4f47-b390-d9cd958c689c.PNG)
+
+![team2](https://user-images.githubusercontent.com/66768662/185031257-3f6bd22f-9723-464b-a31b-c4eed973c0d9.PNG)
+
 
 Photos of car
 
@@ -38,11 +41,11 @@ Youtube URL : https://youtu.be/Q2ei59Gtg3Y
 
 This is a diagram of electricity that depicts all of the elements in the Easykid Janjam team.
 
-**diagram pic**
+![image](https://user-images.githubusercontent.com/66768662/185032734-c0115b00-643a-4e0f-9e95-ff9b99e622bb.png)
 
 Code : Python
 
-**Code pic**
+![Capture](https://user-images.githubusercontent.com/66768662/185032690-89d0b3a1-7599-49ff-9195-f85edd635636.PNG)
 
 Processing of car
 
