@@ -18,8 +18,8 @@ Photos of team
 .
 
 Photos of car
-.
-.
+
+https://drive.google.com/file/d/1dgKFNrSyuWQcepf3GcIWopngAclGqo54/view?usp=sharing
 
 Youtube URL : https://youtu.be/Q2ei59Gtg3Y
 
