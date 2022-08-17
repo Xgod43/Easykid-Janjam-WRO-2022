@@ -1,21 +1,30 @@
 # Easykid-Janjam-WRO-2022
 Easykid Janjam
+
 Team : Easykids Janjam 
+
 Team member : 1.Kunt Kanjanapiputkun 2.Teerawoot Inta 3.Danuphat Parnpradit
+
 Engineering Materials :
+
 This repository contains engineering materials of Easykid Janjam that are participating in the WRO Future Engineers 2022.
 -2 Photos of the team (1 official photo and 1 funny photo)
 -6 Photos of the car (From every side)
 - Youtube URL to show the movement of a car automatically
 - A diagram of electricity that depicts all of the elements
+
 Photos of team
 .
 .
+
 Photos of car
 .
 .
+
 **Youtube Video**
+
 This is a diagram of electricity that depicts all of the elements in the Easykid Janjam team.
+
 **diagram pic**
 Code : Python
 **Code pic**
